@@ -1,0 +1,48 @@
+Last login: Thu Mar  9 23:27:01 on ttys000
+burakkasap@192 ~ % cd downloads
+burakkasap@192 downloads % cd burakkasap
+burakkasap@192 burakkasap % text.txt
+zsh: command not found: text.txt
+burakkasap@192 burakkasap % vi text.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here is my text
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
